@@ -7,8 +7,8 @@ import urllib2
 import json
 import time
 
-deviceID="0000000236"
-apikey = "89d20a92-6ecd-4f0a-a147-d785d0273ca5"
+deviceID="0000000xxx"
+apikey = "89d20a92-6ecd-4f0a-a147-xxxxxxxxxxxx"
     
 def http_post(data): 
     url = 'http://www.linksprite.io/api/http' 
